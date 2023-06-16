@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDLGameEngine", "SDLGameEngine\SDLGameEngine.vcxproj", "{56546C18-0B72-41C0-890C-0C1BA41AEE34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56546C18-0B72-41C0-890C-0C1BA41AEE34}.Debug|x64.ActiveCfg = Debug|x64
+		{56546C18-0B72-41C0-890C-0C1BA41AEE34}.Debug|x64.Build.0 = Debug|x64
+		{56546C18-0B72-41C0-890C-0C1BA41AEE34}.Debug|x86.ActiveCfg = Debug|Win32
+		{56546C18-0B72-41C0-890C-0C1BA41AEE34}.Debug|x86.Build.0 = Debug|Win32
+		{56546C18-0B72-41C0-890C-0C1BA41AEE34}.Release|x64.ActiveCfg = Release|x64
+		{56546C18-0B72-41C0-890C-0C1BA41AEE34}.Release|x64.Build.0 = Release|x64
+		{56546C18-0B72-41C0-890C-0C1BA41AEE34}.Release|x86.ActiveCfg = Release|Win32
+		{56546C18-0B72-41C0-890C-0C1BA41AEE34}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D4EE667-D71B-429C-873D-313C7A43C5FE}
+	EndGlobalSection
+EndGlobal
